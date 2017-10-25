@@ -1,8 +1,11 @@
 # Exploit Title: Smart Development Bridge <=2.3.2 (part of Tizen Studio 1.3 Windows x86/x64) - Buffer Overflow PoC
 
 Date: 22.10.17
+
 Exploit Author: Marcin Kopec
+
 Vendor Homepage: (https://developer.tizen.org/)
+
 Software Link: (https://developer.tizen.org/development/tizen-studio/download#)
 
 ### Version: 2.3.0, 2.3.2 (some older versions are affected as well)
